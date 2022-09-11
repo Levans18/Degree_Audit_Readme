@@ -1,3 +1,8 @@
+# Degree_Audit_Readme
+
+## Summary 📖
+This is part of the readme for my groupmates and I's final project for our web development class. Due to Ohio State not allowing any code to be shared I cannot release the code but the link to the website is below. Feel free to try it out!
+
 Website Link: http://stark-bayou-24499.herokuapp.com
 
 ### Default Admin Account
